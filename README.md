@@ -1,2 +1,2 @@
-# zebra-foot
+Full function Calculator
 
