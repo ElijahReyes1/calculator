@@ -1,1 +1,1 @@
-Full Function Calculator
+Full function calculator
